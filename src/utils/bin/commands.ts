@@ -80,7 +80,7 @@ export const google = async (args: string[]): Promise<string> => {
 // Messi
 export const messi = async (args: string[]): Promise<string> => {
   window.open(`https://en.wikipedia.org/wiki/Lionel_Messi`);
-  return `Searching google for ${args.join(' ')}...`;
+  return `Greatest of All Time...`;
 };
 
 // export const duckduckgo = async (args: string[]): Promise<string> => {
@@ -141,8 +141,8 @@ export const date = async (args: string[]): Promise<string> => {
 // };
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank'); // ...I'm sorry
-  return `Permission denied: with little power comes... no responsibility? `;
+  window.open('https://youtu.be/umDr0mPuyQc?si=vXkC1eE3wLuD0SL0', '_blank'); // ...I'm sorry
+  return `With great laziness comes great excuses...`;
 };
 
 // Banner
