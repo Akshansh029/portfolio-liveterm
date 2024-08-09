@@ -8,7 +8,7 @@
     "linkedin": "akshansh-singh-3b6718250"
   },
   "email": "akshanshsingh00@gmail.com",
-  "ps1_hostname": "liveterm",
+  "ps1_hostname": "portfolio",
   "ps1_username": "visitor",
   "repo": "https://github.com/Akshansh029/portfolio-liveterm",
   "resume_url": "https://drive.google.com/file/d/1AGeG9BKgDC8Su_W4_WKGuU_H-tHLyoqT/view?usp=drive_link",
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#131314",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
     }
   }
 }

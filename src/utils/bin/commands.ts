@@ -79,7 +79,7 @@ export const google = async (args: string[]): Promise<string> => {
 
 // Messi
 export const messi = async (args: string[]): Promise<string> => {
-  window.open(`https://en.wikipedia.org/wiki/Lionel_Messi`);
+  window.open(`https://messi.com/en/`);
   return `Greatest of All Time...`;
 };
 
