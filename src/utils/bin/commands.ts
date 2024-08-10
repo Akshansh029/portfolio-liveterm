@@ -30,8 +30,7 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
-Welcome to my website!
+  return `Welcome to my website!
 👨‍💻 I'm Akshansh Singh, an engineering student and web developer who's been known to accidentally set his code on fire—metaphorically, of course! 🚀 When I'm not knee-deep in React or Next.js, I'm probably brushing up on a new tech skill or playing football ⚽.
 More about me:
 'sumfetch' - short summary.
